@@ -1,10 +1,10 @@
-import CoinTracker from "./coin/CoinTracker";
+import Movie from "./Movie/Movie";
 
 function App() {
 
   return (
     <div>
-      <CoinTracker />
+      <Movie />
     </div>
   );
 }
